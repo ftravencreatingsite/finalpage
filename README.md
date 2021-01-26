@@ -33,7 +33,7 @@ Some of you will recognized the name IPANEMA.</p>
  	<a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">A famous statue</a> |
  </nav>
 <br>
-<h2 style="font-size: 12pt; background-color: #5D8896;"><span style="color: #ffffff; font-size: 14pt;"><strong>My Achievements in Life so Far</h2>
+<h2>My Achievements in Life so Far</h2>
 <p><label for="file">Professional Goals:</label>
 <progress id="file" value="40" max="100"> 32% </progress></p>
 <p><label for="file">Personal Goals:</label>
