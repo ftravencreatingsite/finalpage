@@ -34,7 +34,7 @@ Some of you will recognized the name IPANEMA.</p>
  </nav>
 <br>
 <h2>My Achievements in Life so Far</h2>
-<p><label for="file">Professional Goals:</label>
+<p><label for="file">Professional Goals:</label></p>
 <progress id="file" value="40" max="100"> 32% </progress></p>
 <p><label for="file">Personal Goals:</label>
 <progress id="file" value="60" max="100"> 32% </progress></p>
