@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<h1>FINAL PROJECT</h1>
+	<title> My First Project </title>
 </head>
 <body>
+
 <h2>SOMETHING ABOUT ME by Flavia Traven</h2>
 <p>Below I will list some great things you should know about ME!</p>
 
@@ -35,9 +36,9 @@ Some of you will recognized the name IPANEMA.</p>
 <br>
 <h2>My Achievements in Life so Far</h2>
 <p><label for="file">Professional Goals:</label>
-<progress id="file" value="40" max="100"> 32% </progress></p>
+<progress id="file" max="100" value="70"> 70% </progress>
 <p><label for="file">Personal Goals:</label>
-<progress id="file" value="60" max="100"> 32% </progress></p>
+<progress id="file" max="100" value="60"> 60% </progress>
 
 </body>
 </html>
