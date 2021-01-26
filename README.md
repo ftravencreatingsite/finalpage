@@ -1,34 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<h1>FINAL PROJECT</h1>
+</head>
+<body>
+<h2>SOMETHING ABOUT ME by Flavia Traven</h2>
+<p>Below I will list some great things you should know about ME!</p>
 
-<h2 style="font-size: 12pt; background-color: #5D8896;"><span style="color: #ffffff; font-size: 14pt;"><strong>My Favorite Beverages</strong></span></h2>
+<h2>My Favorite Beverages</h2>
 <ul>
   <li>Coffee</li>
   <li>Red wine</li>
   <li>Tonic Water</li>
 </ul>  
-
-<h2 style="font-size: 12pt; background-color: #5D8896;"><span style="color: #ffffff; font-size: 14pt;"><strong>My Favorite Cuisines</strong></span></h2>
+<h2>My Favorite Cuisines</h2>
 <ol>
   <li>Japanese</li>
   <li>Brazilian</li>
   <li>Greek</li>
 </ol>  
-
-<h2 style="font-size: 12pt; background-color: #5D8896;"><span style="color: #ffffff; font-size: 14pt;"><strong>My Hometown</strong></span></h2>
+<h2>My Hometown</strong></h2>
     <p>I was born and raised in Rio de Janeiro, Brazil. Lived for 20 years in a small house 2 miles from Ipanema Beach.
 Some of you will recognized the name IPANEMA.</p>
-
 <h4>Hometown: Rio de Janeiro (photo below taken in 1992)</h4> 
-<style>
-      img {
-        max-width: 50%;
-        height: auto;
-      }
-    </style>
- <img src="https://lonelyplanetimages.imgix.net/mastheads/GettyImages-147189497_medium.jpg" alt="Ipanemabeach" 
+ <img src="https://lonelyplanetimages.imgix.net/mastheads/GettyImages-147189497_medium.jpg" alt="Ipanemabeach width="200" height="200" 
 <br>
 <h4>More About My Hometown</h4>
 <nav>
- 	 	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
+ 	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
  	<a href="https://en.wikipedia.org/wiki/Rio_Carnival">A famous parade</a> |
  	<a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">A famous statue</a> |
  </nav>
