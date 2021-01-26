@@ -28,18 +28,15 @@ Some of you will recognized the name IPANEMA.</p>
 <br>
 <h4>More About My Hometown</h4>
 <nav>
- 	
- 	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
+ 	 	<a href="https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"> A famous song</a> |
  	<a href="https://en.wikipedia.org/wiki/Rio_Carnival">A famous parade</a> |
  	<a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">A famous statue</a> |
  </nav>
 <br>
 <h2 style="font-size: 12pt; background-color: #5D8896;"><span style="color: #ffffff; font-size: 14pt;"><strong>My Achievements in Life so Far</h2>
-
 <p><label for="file">Professional Goals:</label>
 <progress id="file" value="40" max="100"> 32% </progress></p>
 <p><label for="file">Personal Goals:</label>
 <progress id="file" value="60" max="100"> 32% </progress></p>
-
 </body>
 </html>
